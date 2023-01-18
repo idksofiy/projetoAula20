@@ -66,7 +66,7 @@ function draw(){
 
   //criadas formas para todas as partículas
   ellipse(block1.position.x,block1.position.y,30);
-  rect(block2.position.x,block2.position.y,100,100)
+  rect(block2.position.x,block2.position.y,50,50)
   rect(block3.position.x,block3.position.y,100,50)
 
   
